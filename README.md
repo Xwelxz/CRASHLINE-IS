@@ -62,7 +62,7 @@ CRASHLINE — учебный проект информационной сист�
 
 <div align="center">
 
-![CRASHLINE — Use Case](CRASHLINE-IS-UseCase.png)
+![CRASHLINE — Use Case](USE-CASE.vsdx)
 
 </div>
 
